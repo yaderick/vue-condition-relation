@@ -1,0 +1,32 @@
+{
+  "name": "vue-condition-relation",
+  "version": "0.1.0",
+  "main": "./src/components/ConditionRelation/index.vue",
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vue": "^2.5.17",
+    "element-ui": "^2.4.8",
+    "@vue/cli-plugin-babel": "^3.0.5",
+    "@vue/cli-plugin-eslint": "^3.0.5",
+    "@vue/cli-service": "^3.0.5",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
